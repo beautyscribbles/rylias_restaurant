@@ -1,0 +1,132 @@
+/* Created by Florence L. H */
+
+
+
+body{
+	  margin: 8;
+	    padding: 5;
+	      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvXjrT8R-wra9khsHh_I3UsK6tybjlaY_79g&usqp=CAU");
+	        background-attachment: fixed;
+		  background-repeat: ;
+		    
+	  }
+	  .layout{
+		    width:84%;
+		      margin:12%;
+	      }
+	      .menu{
+		          width:80px;
+			      height:20px;
+			          background-color:yellow;
+				      padding:10px;
+			      }
+			      img{
+				          margin:20px 0;
+					      width:100%; height:250px;
+				      }
+				      h4{
+					          float:right ;
+						      margin:0;
+						          margin-right:10px;
+							      color:black;
+							          }
+								  .div2{
+									      width:75px;
+									          height:18px;
+									  }
+									  #extra{
+										      width:100%;
+										          height:220px;
+											      display:none;
+											          
+										      }
+										      .sub{
+											          width:150px;
+												      height:50px;
+											      }
+											      .extra1{
+												          width:95%;
+													      height:100%;
+													         padding:10px;
+														    margin:0;
+													    }
+													    .row1{
+														        width:100%;
+															    height:50px;
+															        display:flex;
+															}
+															.row2{
+																margin-top:30px;
+																    width:100%;
+																        height:50px;
+																	    display:flex;
+																    }
+																    .submenu2{
+																	        float:right ;margin-left:50px;
+																	}
+																	.submenu4{
+																		    float:right ;margin-left:50px;
+																	    }
+																	    .submenu5{
+																		        width:125px;
+																			    margin-top:30px;
+																		    }
+																		    .sub > button{
+																			        width:100%;
+																				    height:100%;
+																				        background-color:yellow;
+																					    color:black;
+																					        font-weight:bold ;
+																					}
+																					.box1{
+																						    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQB4uuguzjvE7T56NxanJvylRBFpv5wJE4Btw&usqp=CAU");
+																						        background-position:center ;
+																							    width:100%;
+																							        height:150px;
+																								    margin:20px 0;
+																								        text-align:center ;
+																									    padding:120px 0;
+																								    }
+																								    .box1 > h1{
+																									        background-color:yellow;
+																										    margin:0 30px;
+																									    }
+																									    .box1 > h3{
+																										        background-color:yellow;
+																											    margin:20px 50px;
+																										    }
+																										    .price{
+																											        background-color:yellow;
+																												    width:100%;
+																												        height:100px;
+																													    text-align:center;
+																													        margin-top:30px;
+																													}
+																													.price > h1{
+																														    font-size: 40px;
+																													    }
+																													    .price > p{
+																														    font-size:20px;    
+																													    }
+																													    .box2{
+																														        width:90%;
+																															    background-color:white;
+																															        text-align:center ;
+																																    padding:5%;
+																																        margin:20px 0;    
+																																}
+																																.box2 > button{
+																																	    background-color:yellow;
+																																	        width:130px;
+																																		    height:40px;
+																																		        border:none;
+																																		}
+																																		h2{
+																																			    text-align:center ;
+																																			        
+																																		    }
+																																		    .shadow{
+																																			        text-shadow:2px 2px yellow;
+																																				    color:blue;
+																																			    }
+
