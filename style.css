@@ -7,7 +7,7 @@ body{
 	    padding: 5;
 	      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvXjrT8R-wra9khsHh_I3UsK6tybjlaY_79g&usqp=CAU");
 	        background-attachment: fixed;
-		  background-repeat: ;
+		  background: repeat 12px;
 		    
 	  }
 	  .layout{
@@ -41,13 +41,13 @@ body{
 											          
 										      }
 										      .sub{
-											          width:150px;
+					          width:150px;
 												      height:50px;
 											      }
-											      .extra1{
-												          width:95%;
-													      height:100%;
-													         padding:10px;
+									 .extra1{
+								     width:95%;
+									   height:100%;
+								         padding:10px;
 														    margin:0;
 													    }
 													    .row1{
@@ -104,14 +104,13 @@ body{
 																													}
 																													.price > h1{
 																														    font-size: 40px;
-																													    }
+																									    }
 																													    .price > p{
 																														    font-size:20px;    
 																													    }
 																													    .box2{
 																														        width:90%;
-																															    background-color:white;
-																															        text-align:center ;
+																															    background-color:white;		        text-align:center ;
 																																    padding:5%;
 																																        margin:20px 0;    
 																																}
